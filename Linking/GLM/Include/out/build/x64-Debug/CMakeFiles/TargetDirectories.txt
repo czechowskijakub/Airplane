@@ -1,0 +1,2 @@
+C:/Users/Jakub/source/repos/Arcade/Linking/GLM/Include/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Jakub/source/repos/Arcade/Linking/GLM/Include/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
